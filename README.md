@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 ## 💫 About Me : 
 - 👩‍💼 Pronouns : She/Her/Hers
 - 🎓 Pursuing B.E. in Computer Science Engineering from **Chaitanya Bharathi Institute of Technology, Hyderabad.**
-- 🔭 I’m currently working on **Product Management**
+- 🔭 I’m currently working as a **Product Management Intern**
 - 🌱 I’m currently learning **Data Science and Data Analytics**
 - 👨‍💻 All of my projects are available [here](https://github.com/salonidayal)
 - 💬 Ask me about **Java!**

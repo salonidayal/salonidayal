@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 
 
-## Skills
-<p align="left">
+## ⚡Skills
 ### Languages
+
 <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/></a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
  </p>
 
 
-## My Github Stats
+## 📈My Github Stats
 <div>
     <p align="center">
         <div align="center">

@@ -6,7 +6,6 @@ This is Saloni.
 **salonidayal/salonidayal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
--->
 ## 💫 About Me : 
 - 👩‍💼 Pronouns : She/Her/Hers
 - 🎓 Pursuing B.E. in Computer Science Engineering from **Chaitanya Bharathi Institute of Technology, Hyderabad.**
@@ -14,6 +13,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Data Science and Data Analytics**
 - 👨‍💻 All of my projects are available [here](https://github.com/salonidayal)
 - 💬 Ask me about **Java!**
+-->
+
 
 
 

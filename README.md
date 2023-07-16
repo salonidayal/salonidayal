@@ -1,8 +1,8 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 
 This is Saloni.
 
-<!--
+
 **salonidayal/salonidayal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Data Science and Data Analytics**
 - 👨‍💻 All of my projects are available [here](https://github.com/salonidayal)
 - 💬 Ask me about **Java!**
--->
+
 
 
 
@@ -73,3 +73,5 @@ Here are some ideas to get you started:
 
 
 <img src="https://raw.githubusercontent.com/salonidayal/salonidayal/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
+
+-->
